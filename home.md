@@ -3,7 +3,7 @@ title: Home
 layout: page
 
 menu: true
-order:1
+order: 1
 ---
 
 ALIFE workshop
