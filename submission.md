@@ -1,9 +1,9 @@
 ---
 title: Submissions
-layout:page
+layout: page
 
-menu:true
-order:2
+menu: true
+order: 2
 ---
 
 ##Call for contributed talks##
