@@ -6,7 +6,7 @@ menu: true
 order: 1
 ---
 
-The ALIFE 2019 theme is “how can artificial life help solve societal challenges?” A part of the answer lies into understanding human behavior at the root of these challenges and society’s responses when faced to them. For instance, environmental planning requires to understand why human sometimes fail to sustainably exploit environmental resources e.g. tragedy of commons. A large body of work investigates the causes and solutions of such challenges but their results often remain in the realm of theory.
+The ALIFE 2019 theme is “how can artificial life help solve societal challenges?” A part of the answer lies into understanding human behavior at the root of these challenges and society’s responses when faced to them. For instance, environmental planning requires to understand why humans sometimes fail to sustainably exploit environmental resources e.g. tragedy of commons. A large body of work investigates the causes and solutions of such challenges but their results often remain in the realm of theory.
 This workshop proposes to explore how research on the evolution of human behavior can be moved beyond theoretical realm to address societal challenges. 
 
 The workshop will be organised in two parts. The first 1.5 hours will focus on the state-of-the-art theoretical and modelling work. The second 1.5 hours will discuss how this knowledge on the evolution of human behavior can contribute to (i) improve human societies, (ii) design artificial societies and (iii) develop the interface between them.

@@ -14,10 +14,10 @@ Workshop Convenes:  Monday 29 July 2019
 
 _____
 
-Submissions for contributed talks are extended abstracts (<500 words). The workshop accepts published or novel works. The work submitted do not have to directly apply to human but its relevance to the field of evolution of human behavior has to be clearly stated.
+Submissions for contributed talks are extended abstracts (<500 words). The workshop accepts published or novel works. The work submitted does not have to directly apply to humans but its relevance to the field of evolution of human behavior has to be clearly stated.
 
 Accepted abstracts will be published in a booklet hosted on this website.
 
 ____
 
-Submission should be send as a single file, in PDF format only, to ehbalife@gmail.com
+Submissions should be send as a single file, in PDF format only, to ehbalife@gmail.com
