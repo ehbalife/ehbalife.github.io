@@ -8,8 +8,8 @@ order: 2
 
 The EHB organizing committee cordially invites you to submit your work to the 2019 workshop on evolution of human behavior
 
-Abstract Submission Deadline: **coming soon**\\
-Notification of Acceptance: coming soon\\
+Abstract Submission Deadline: **Friday 14th June**\\
+Notification of Acceptance: Friday 28th June\\
 Workshop Convenes:  Monday 29 July 2019
 
 _____
