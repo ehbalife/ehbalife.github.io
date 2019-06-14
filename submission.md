@@ -18,6 +18,8 @@ Submissions for contributed talks are extended abstracts (<500 words). The works
 
 Accepted abstracts will be published in a booklet hosted on this website.
 
+A contibuted talk is 10 min of presentations + 5 min of questions.
+
 ____
 
 Submissions should be send as a single file, in PDF format only, to ehbalife@gmail.com

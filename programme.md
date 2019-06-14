@@ -12,6 +12,6 @@ order: 3
 
 [**Peter Lewis**](https://www2.aston.ac.uk/eas/staff/a-z/dr-peter-lewis) 
 
-**Contributed talks**
+**Contributed talks** (10min presentation + 5 min questions)
 
 More details coming soon
