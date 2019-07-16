@@ -53,11 +53,11 @@ In just a couple of decades, the internet has already revolutionised the way we 
 
 ## Contributed extended abstracts
 
-Chloe M. Barnes, Anikó Ekárt and Peter R. Lewis -- [**Beyond Goal-Rationality: Traditional Action Can Promote Goal-Achievement in Socially Situated Agents**](/assets/abstracts/Barnes2019BeyondAgents)
+Chloe M. Barnes, Anikó Ekárt and Peter R. Lewis -- [**Beyond Goal-Rationality: Traditional Action Can Promote Goal-Achievement in Socially Situated Agents**](/assets/abstracts/Barnes2019BeyondAgents.pdf)
 
-Elias F. Domingos, Jelena Grujić, Juan C. Burguillo, Georg Kirchsteigher, Francisco C. Santos, and Tom Lenaerts -- [**Timing uncertainty promotes group reciprocity and polarization in the presence of risky commons**](/assets/abstracts/Domingos2019TimingCommons)
+Elias F. Domingos, Jelena Grujić, Juan C. Burguillo, Georg Kirchsteigher, Francisco C. Santos, and Tom Lenaerts -- [**Timing uncertainty promotes group reciprocity and polarization in the presence of risky commons**](/assets/abstracts/Domingos2019TimingCommons.pdf)
 
-Jeremy V. Pitt, David Burth Kurka and Josiah Ober -- [**Towards Computational Comparative Politics: modelling the trajectories of political regimes**](/assets/asbtracts/Pitt2019TowardsRegimes)
+Jeremy V. Pitt, David Burth Kurka and Josiah Ober -- [**Towards Computational Comparative Politics: modelling the trajectories of political regimes**](/assets/asbtracts/Pitt2019TowardsRegimes.pdf)
 
 
 
