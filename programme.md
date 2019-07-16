@@ -6,7 +6,7 @@ menu: true
 order: 3
 ---
 
-## Programme (Monday 29th July)
+## Monday 29th July
 **First session: 11:30 to 13:00**\\
 11:30-11:45 Introductory talk\\
 11:45-12:15 **Keynote speaker 1: Gilbert Roberts.** *The role of reputation in the evolution of cooperation*\\
