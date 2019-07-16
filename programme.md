@@ -55,7 +55,7 @@ Chloe M. Barnes, Anikó Ekárt and Peter R. Lewis -- [**Beyond Goal-Rationality:
 
 Elias F. Domingos, Jelena Grujić, Juan C. Burguillo, Georg Kirchsteigher, Francisco C. Santos, and Tom Lenaerts -- [**Timing uncertainty promotes group reciprocity and polarization in the presence of risky commons**](/assets/abstracts/Domingos2019TimingCommons.pdf)
 
-Jeremy V. Pitt, David Burth Kurka and Josiah Ober -- [**Towards Computational Comparative Politics: modelling the trajectories of political regimes**](/assets/asbtracts/Pitt2019TowardsRegimes.pdf)
+Jeremy V. Pitt, David Burth Kurka and Josiah Ober -- [**Towards Computational Comparative Politics: modelling the trajectories of political regimes**](/assets/abstracts/Pitt2019TowardsRegimes.pdf)
 
 
 
