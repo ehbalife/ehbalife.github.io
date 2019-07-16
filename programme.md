@@ -6,20 +6,21 @@ menu: true
 order: 3
 ---
 
-Please find below the schedule of the workshop (Monday 29th July):
+Please find below the programme of the workshop (Monday 29th July):
 
-**First session: 11:30 to 13:00**\\
+##Monday 29th July
+###First session: 11:30 to 13:00\\
 11:30-11:45 Introductory talk\\
 11:45-12:15 Keynote speaker 1: Gilbert Roberts. **The role of reputation in the evolution of cooperation**\\
 12:15-12:30 Chloe Barnes. **Beyond Goal-Rationality: Traditional Action Can Promote Goal-Achievement in Socially Situated Agents**\\
 12:30-12:45 Elias F. Domingos. **Timing uncertainty promotes group reciprocity and polarization in the presence of risky commons**\\
-12:45-13:00 Contingency time and discussion\\
+12:45-13:00 Contingency time and discussion
 
-**Second session: 14:30 to 16:00**\\
+###Second session: 14:30 to 16:00\\
 14:30-15:00 Keynote speaker 2: Peter Lewis. **What it it like to trust a rock?**\\
 15:00-15:30 Keynote speaker 3: Jasmeen Kanwal. **Socialising Social Evolution**\\
 15:30-15:45 Jeremy V. Pitt. **Towards Computational Comparative Politics: modelling the trajectories of political regimes**\\
-15:45-16:00 Contingency time and discussion\\
+15:45-16:00 Contingency time and discussion
 
 ### Keynote speakers
 
