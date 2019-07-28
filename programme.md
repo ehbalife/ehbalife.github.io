@@ -11,7 +11,7 @@ order: 3
 11:30-11:45 Introductory talk\\
 11:45-12:15 **Keynote speaker 1: Gilbert Roberts.** *The role of reputation in the evolution of cooperation*\\
 12:15-12:30 **Chloe Barnes.** *Beyond Goal-Rationality: Traditional Action Can Promote Goal-Achievement in Socially Situated Agents*\\
-12:30-12:45 **Elias F. Domingos.** *Timing uncertainty promotes group reciprocity and polarization in the presence of risky commons*\\
+12:30-12:45 **Elias F. Domingos.** *Learning dynamics in uncertain collective endeavours*\\
 12:45-13:00 Contingency time and discussion
 
 **Second session: 14:30 to 16:00**\\
@@ -53,7 +53,7 @@ In just a couple of decades, the internet has already revolutionised the way we 
 
 Chloe M. Barnes, Anikó Ekárt and Peter R. Lewis -- [**Beyond Goal-Rationality: Traditional Action Can Promote Goal-Achievement in Socially Situated Agents**](/assets/abstracts/Barnes2019BeyondAgents.pdf)
 
-Elias F. Domingos, Jelena Grujić, Juan C. Burguillo, Georg Kirchsteigher, Francisco C. Santos, and Tom Lenaerts -- [**Timing uncertainty promotes group reciprocity and polarization in the presence of risky commons**](/assets/abstracts/Domingos2019TimingCommons.pdf)
+Elias F. Domingos, Jelena Grujić, Juan C. Burguillo, Georg Kirchsteigher, Francisco C. Santos, and Tom Lenaerts -- [**Learning dynamics in uncertain collective endeavours**](/assets/abstracts/Domingos2019TimingCommons.pdf)
 
 Jeremy V. Pitt, David Burth Kurka and Josiah Ober -- [**Towards Computational Comparative Politics: modelling the trajectories of political regimes**](/assets/abstracts/Pitt2019TowardsRegimes.pdf)
 
